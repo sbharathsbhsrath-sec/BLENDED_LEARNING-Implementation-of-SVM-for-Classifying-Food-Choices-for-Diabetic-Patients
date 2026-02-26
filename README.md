@@ -79,7 +79,7 @@ sns.heatmap(conf_matrix,annot=True,fmt='d',cmap='Blues')
 plt.xlabel('preedicted')
 plt.ylabel('Actual')
 plt.title('confusion Matrix')
-plt.show()
+plt.show() 
 
 ```
 
